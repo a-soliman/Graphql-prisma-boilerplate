@@ -15,6 +15,7 @@ type Mutation {
 }
 
 # type Subscription {
+
 # }
 
 type AuthPayload {
